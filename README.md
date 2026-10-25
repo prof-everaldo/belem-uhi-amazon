@@ -1,14 +1,14 @@
-# Amplifying urban heat island in an eastern Amazonian conurbation
+# Bimodal urban heat island in Amazonian conurbation: dual attribution and open workflow for equatorial metropolises
 
 This repository contains the complete analytical pipeline for the manuscript:
 
-> **Amplifying urban heat island in an eastern Amazonian conurbation: bimodal structure and dual attribution to global and urban forcings (1985–2025)**
+> **Bimodal urban heat island in Amazonian conurbation: dual attribution and open workflow for equatorial metropolises**
 >
-> Submitted to *Nature Communications*, 2026.
+> Submitted to *npj Urban Sustainability*, 2026.
 
 ## Overview
 
-The pipeline implements a multi-platform attribution framework to separate the contributions of global climate change and urbanization to observed warming in the Belém conurbation, eastern Brazilian Amazonia. It integrates:
+The analytical workflow implements a multi-platform attribution framework to separate the contributions of global climate change and urbanization to observed warming in the Belém conurbation, eastern Brazilian Amazonia. It integrates:
 
 - **Landsat LST** (30 m, 1985–2025) — spatial structure and attribution coefficients
 - **MODIS LST** (1 km, 2000–2025) — independent cross-check of spatial pattern
